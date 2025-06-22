@@ -123,7 +123,7 @@
     <a href="#">Home</a>
     <a href="#">Services</a>
     <a href="#">About Us</a>
-    <a href="#">Contact</a>
+    <a href="#">Contact Us</a>
 </nav>
 
 <div class="container">
